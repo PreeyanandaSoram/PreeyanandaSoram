@@ -21,12 +21,7 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-4FC3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-4FC3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-4FC3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-4FC3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-4FC3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-4FC3F7?style=for-the-badge" />
+  Node.js &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; Kotlin &nbsp; • &nbsp; Java &nbsp; • &nbsp; C &nbsp; • &nbsp; C++
 </p>
 
 ---
