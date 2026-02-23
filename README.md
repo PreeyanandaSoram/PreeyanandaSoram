@@ -1,25 +1,37 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4C4C&size=36&center=true&vCenter=true&width=900&height=60&lines=Initializing+developer+profile...;CLI+Systems+Engineer;Open+Source+Builder;Shipping+Tools+That+Matter)
 
-<h1 align="center">Preeyananda Soram ⌁ Developer</h1>
+---
 
-<p align="center">
-  Designing fast, reliable command-line systems.
-</p>
+<div align="center">
 
-<p align="center">
-  ⚙ CLI Engineering · 🚀 Automation · 📦 Open Source
-</p>
+```bash
+$ whoami
+𝗣𝗿𝗲𝗲𝘆𝗮𝗻𝗮𝗻𝗱𝗮 𝗦𝗼𝗿𝗮𝗺
 
-<p align="center">
-  🇮🇳 Based in India
-</p>
+$ role
+CLI Engineer | Open Source Builder
+
+$ location
+India
+
+$ stack
+Node.js  JavaScript  Kotlin  Java  Git
+```
+
+</div>
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">⚙ ACTIVE PROJECTS</h2>
 
-<p align="center">
-  Node.js &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; Kotlin &nbsp; • &nbsp; Java &nbsp; • &nbsp; C &nbsp; • &nbsp; C++
-</p>
+<div align="center">
+
+```bash
+$ ls ./projects
+renamr      -> Bulk file renamer CLI
+strongpass  -> Secure password generator CLI
+```
+
+</div>
 
 ---
