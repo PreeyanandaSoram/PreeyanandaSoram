@@ -1,6 +1,4 @@
-# ⌘ SYSTEM ONLINE
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=24&center=true&vCenter=true&width=600&lines=CLI+Tool+Engineer;Open+Source+Builder;Shipping+Tools+That+Matter)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4C4C&size=24&center=true&vCenter=true&width=600&lines=CLI+Tool+Engineer;Open+Source+Builder;Shipping+Tools+That+Matter)
 
 ```bash
 $ whoami
