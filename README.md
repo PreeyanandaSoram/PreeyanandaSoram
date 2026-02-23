@@ -14,14 +14,12 @@
   🇮🇳 Based in India
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━</p>
-
 ---
 
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  Node.js &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; Kotlin &nbsp; • &nbsp; Java &nbsp; • &nbsp; C &nbsp; • &nbsp; C++
+  Node.js • JavaScript • Kotlin • Java • C • C++
 </p>
 
 ---
