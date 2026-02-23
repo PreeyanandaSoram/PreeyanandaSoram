@@ -1,16 +1,14 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=26&center=true&vCenter=true&width=700&lines=System+Online;CLI+Tool+Engineer;Open+Source+Architect;Shipping+Code+Daily)
 
-<!--
-**PreeyanandaSoram/PreeyanandaSoram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+Preeyananda Soram
 
-Here are some ideas to get you started:
+$ role
+Indie Developer | CLI Tool Engineer | Open Source Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ location
+India
+
+$ stack
+Node.js  JavaScript  Git  npm kotlin java 
