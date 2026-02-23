@@ -1,22 +1,32 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4C4C&size=36&center=true&vCenter=true&width=900&height=60&lines=Initializing+developer+profile...;CLI+Systems+Engineer;Open+Source+Builder;Shipping+Tools+That+Matter)
 
-<h1 align="center">Preeyananda Soram</h1>
+<h1 align="center">Preeyananda Soram ⌁ Developer</h1>
 
 <p align="center">
-  Performance-Focused CLI Engineer
+  Designing fast, reliable command-line systems.
 </p>
 
 <p align="center">
-  Building automation tools. Publishing scalable npm utilities.
+  ⚙ CLI Engineering · 🚀 Automation · 📦 Open Source
 </p>
 
 <p align="center">
-  🇮🇳 India · Open Source Contributor
+  🇮🇳 Based in India
 </p>
 
-<p align="center">────────────────────────</p>
+<p align="center">━━━━━━━━━━━━━━━━━━</p>
+
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-Node.js • JavaScript • Kotlin • Java • Git • Kotlin • Java • C • C++
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-4FC3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-4FC3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kotlin-4FC3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-4FC3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-4FC3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-4FC3F7?style=for-the-badge" />
+</p>
+
+---
