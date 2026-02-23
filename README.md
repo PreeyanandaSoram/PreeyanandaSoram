@@ -3,19 +3,19 @@
 <h1 align="center">Preeyananda Soram</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=28&center=true&vCenter=true&width=700&lines=Indie+Developer;CLI+Engineer;Open+Source+Builder" />
+  Building clean, powerful developer tools.
+</p>
+
+<p align="center">
+  <strong>Indie Developer</strong> • <strong>CLI Engineer</strong> • <strong>Open Source Builder</strong>
+</p>
+
+<p align="center">
+  🇮🇳 Based in India
 </p>
 
 ---
 
-### 🚀 About Me
-
-- ⚙ Building high-performance CLI tools  
-- 📦 Publishing npm packages  
-- 🌍 Growing open-source presence  
-
----
-
-### 🛠 Tech Stack
+## ⚡ Tech Stack
 
 Node.js • JavaScript • Kotlin • Java • Git
