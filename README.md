@@ -1,21 +1,20 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4C4C&size=36&center=true&vCenter=true&width=900&height=60&lines=Initializing+developer+profile...;CLI+Systems+Engineer;Open+Source+Builder;Shipping+Tools+That+Matter)
 
-<h1 align="center">Preeyananda Soram ⌁ Developer</h1>
+<h1 align="center">Preeyananda Soram</h1>
 
 <p align="center">
-  Designing fast, reliable command-line systems.
+  Performance-Focused CLI Engineer
 </p>
 
 <p align="center">
-  ⚙ CLI Engineering · 🚀 Automation · 📦 Open Source
+  Building automation tools. Publishing scalable npm utilities.
 </p>
 
 <p align="center">
-  🇮🇳 Based in India
+  🇮🇳 India · Open Source Contributor
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━</p>
-
+<p align="center">────────────────────────</p>
 ---
 
 ## ⚡ Tech Stack
