@@ -1,14 +1,23 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=26&center=true&vCenter=true&width=700&lines=System+Online;CLI+Tool+Engineer;Open+Source+Architect;Shipping+Code+Daily)
+# ⌘ PREY // DEV TERMINAL
 
 ```bash
 $ whoami
 Preeyananda Soram
 
 $ role
-Indie Developer | CLI Tool Engineer | Open Source Builder
+CLI Tool Engineer | Indie Builder | Open Source Developer
 
 $ location
 India
 
 $ stack
-Node.js  JavaScript  Git  npm kotlin java 
+Node.js  JavaScript  Git  npm  Kotlin  Java
+
+$ ls ./arsenal
+
+renamr      → Bulk file renamer CLI
+strongpass  → Secure password generator CLI
+
+> Building high-performance CLI utilities
+> Publishing npm packages
+> Expanding open-source presence
