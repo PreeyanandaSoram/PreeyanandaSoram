@@ -11,4 +11,4 @@ $ location
 India
 
 $ stack
-Node.js  JavaScript  Git  npm Kotlin Java Typescript C C++
+Node.js Python JavaScript  Git  npm Kotlin Java Typescript C C++
